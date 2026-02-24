@@ -1,5 +1,3 @@
-# I'm Igor-Ralha, Welcome.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Igor%20Ralha%20Guerreiro%20Gomes&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20Data%20Engineer%20|%20Data%20Scientist&descAlignY=55&descSize=16" alt="Header"/>
 </div>
@@ -8,6 +6,10 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Data+Analytics+%26+Engineering+%F0%9F%9A%80;Building+ETL+Pipelines+%F0%9F%94%A7;Exploring+Data+Science+%F0%9F%A7%A0;Always+Learning+in+Data+%F0%9F%93%88)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ralha-igor&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -98,6 +100,8 @@ igor.current_focus()
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
 ### 🎨 Frontend Development
