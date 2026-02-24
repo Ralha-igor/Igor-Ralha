@@ -154,18 +154,17 @@ igor.current_focus()
 <table>
   <tr>
     <td align="center">
-      <a href="www.linkedin.com/in/igor-ralha-b6867a284">
+      <a href="https://www.linkedin.com/in/igor-ralha-b6867a284" target="_blank">
         <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64"/>
         <br><b>LinkedIn</b>
       </a>
     </td>
     <td align="center">
-      <a href="igorralhagomes@hotmail.com">
+      <a href="mailto:igorralhagomes@hotmail.com">
         <img src="https://img.icons8.com/color/96/000000/gmail.png" width="64"/>
         <br><b>Email</b>
       </a>
     </td>
-    
   </tr>
 </table>
 
