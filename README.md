@@ -88,8 +88,6 @@ igor.current_focus()
   <img src="https://raw.githubusercontent.com/vitaoh/vitaoh/output/snake.svg" alt="Snake animation" />
 </div>
 
-
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -107,6 +105,16 @@ igor.current_focus()
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 📊 Data & Analytics Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
 ### 🗄️ Databases & Backend
@@ -127,6 +135,7 @@ igor.current_focus()
 </p>
 
 </div>
+
 
 ## 📫 Let's Connect!
 
