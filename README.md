@@ -54,7 +54,7 @@ class IgorRalha:
         
         self.data_stack = {
             "libraries": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
-            "databases": ["MySQL", "Oracle"],
+            "databases": ["MySQL", "Oracle", "Excel"],
             "concepts": ["ETL", "EDA", "Data Cleaning", "Data Modeling"]
         }
         
